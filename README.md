@@ -1,5 +1,5 @@
 # Next Entries OpenJira APP
-
+![screenshot](screenshots/screenshot.jpeg)
 
 ## Initial setup
 
